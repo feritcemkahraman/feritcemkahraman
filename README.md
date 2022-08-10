@@ -1,8 +1,7 @@
 <br>
 <br>
 <br>
-<img src="https://i.hizliresim.com/l4zft88.gif" align="right" alt="feritcemkahraman" width="450"
-<br>
+<img src="https://i.hizliresim.com/l4zft88.gif" align="right" alt="feritcemkahraman" width="400"
 <br>
 <br>
 <h4 align="center"
