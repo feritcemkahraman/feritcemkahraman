@@ -7,7 +7,7 @@
 <h4 align="center"
  Hello there, I'm Ferit Cem 👋 <br>
  🔭 I'm working on something that will improve me even more. <br><br>
- 🌱 I’m currently learning Javascript, React and little bit of Vue <br><br>
+ 🌱 I’m currently learning Javascript, React and Vue <br><br>
   Hope to see you in many projects that will benefit everyone 👋 <br><br>
 </h4>
 <br>
