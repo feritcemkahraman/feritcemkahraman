@@ -27,7 +27,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/ferit-cem-kahraman" target="_blank"><img align="center" src="https://img.icons8.com/nolan/344/linkedin.png" alt="feritcemkahraman" height="50" width="50" /></a>
 <a href="https://twitter.com/feritcemdev" target="_blank"><img align="center" src="https://img.icons8.com/nolan/72/twitter.png" alt="feritcemkahraman" height="50" width="50" /></a>
-<a href="https://instagram.com/evenmorehigh" target="_blank"><img align="center" src="https://icons8.com/icon/43625/instagram" alt="feritcemkahraman" height="50" width="50" /></a>
+<a href="https://instagram.com/evenmorehigh" target="_blank"><img align="center" src="https://icons8.com/icon/43625/instagram.png" alt="feritcemkahraman" height="50" width="50" /></a>
 </p>
 <br>
 <br>
